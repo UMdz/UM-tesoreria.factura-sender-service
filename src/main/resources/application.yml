@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: factura-sender-service
-  config:
-    import: optional:configserver:http://localhost:8888
